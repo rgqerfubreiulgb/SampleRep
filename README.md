@@ -1,2 +1,2 @@
 #GITHUB EGITIMI
-BT gtu 2020 
+BT gtu 2020
